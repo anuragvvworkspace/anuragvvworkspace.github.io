@@ -1,30 +1,32 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Scribble
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![screenshot](https://cloud.githubusercontent.com/assets/1153134/23830104/6d4665e0-06b7-11e7-8805-57e73c346459.png)
 
-## Preview
+## Get started
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+1. [Fork the repository](https://github.com/muan/scribble/fork)
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+2. Clone the repository: `git clone https://github.com/username/scribble`
 
-## Getting Started
+3. Run `bundle install`
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+4. Run Jekyll: `bundle exec jekyll serve -w`
+
+5. Go to http://localhost:4000 for your site.
+
+---
+
+## Make it yours
+
+1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
+
+2. Change `about.md` for blog intro
+
+3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+
+## The end
+
+Like it? [Tell me](http://twitter.com/muanchiou).<br/>
+Problem? [Use GitHub Issues](https://github.com/muan/scribble).
