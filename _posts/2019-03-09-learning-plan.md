@@ -1,5 +1,5 @@
 ---
-title: Learning plan
+title: Learning plannn
 date: 2019-03-09 12:06:52
 ---
 
