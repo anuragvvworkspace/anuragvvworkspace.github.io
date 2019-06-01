@@ -20,13 +20,21 @@ A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-j
 
 ## Make it yours
 
-1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
+1. Edit `_config.yml`, aNDdn then rerun `jekyll serve -w`
 
 2. Change `about.md` for blog intro
 
 3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
 
+## Mark 'em Down
+
+Use markdown cheatsheet to effectively use markdown.
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ## The end
 
 Like it? [Tell me](http://twitter.com/muanchiou).<br/>
 Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+
+
+
