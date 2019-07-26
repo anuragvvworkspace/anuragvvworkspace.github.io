@@ -11,6 +11,4 @@ date: 2019-07-25 08:06:52
 
 3. [Others](../subjects/optimization/optimization.html)
 
-4. [Machine Learning](../subjects/machine_learning/machine_learning.html)
-
 ---
