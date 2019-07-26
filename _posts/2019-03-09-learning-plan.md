@@ -5,12 +5,14 @@ date: 2019-03-09 12:06:52
 
 ## Subjects to learn
 ---
-1. [Algorithms]( ../subjects/algorithms/algorithms.html)
+1.[Blank] 
 
-2. [Computer Vision](../subjects/computer_vision/computer_vision.html)
+2. [Algorithms]( ../subjects/algorithms/algorithms.html)
 
-3. [Optimization](../subjects/optimization/optimization.html)
+3. [Computer Vision](../subjects/computer_vision/computer_vision.html)
 
-4. [Machine Learning](../subjects/machine_learning/machine_learning.html)
+4. [Optimization](../subjects/optimization/optimization.html)
+
+5. [Machine Learning](../subjects/machine_learning/machine_learning.html)
 
 ---
