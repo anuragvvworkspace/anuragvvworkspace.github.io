@@ -8,14 +8,14 @@ I found the list of topics in DL
 
 A rough and short list:
 
-. Neural Networks
-. Convolutional Networks
-. AutoEncoders
-. Deep Belief Networks
-. Recurrent Neural Networks
-. Long Short Term Memory
-. Deep and restricted Boltzmann Machines
-. Deep Reinforcement Learning
+1. Neural Networks
+2. Convolutional Networks
+3. AutoEncoders
+4. Deep Belief Networks
+5. Recurrent Neural Networks
+6. Long Short Term Memory
+7. Deep and restricted Boltzmann Machines
+8. Deep Reinforcement Learning
 
 ---
 
