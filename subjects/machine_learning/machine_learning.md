@@ -8,6 +8,6 @@ date: 2013-05-06 15:27:31
 
 [ Stanford CNN](../machine_learning/stanford_CNN.md)
 
-[ Extensive DL](../machine_learning/extensive.md)
+[ Extensive DL](../machine_learning/Extensive_DL/Extensice_DL.md)
 
 ---
