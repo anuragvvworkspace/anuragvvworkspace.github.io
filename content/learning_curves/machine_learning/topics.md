@@ -5,8 +5,8 @@ Inception Score:
   
 
 There is something called Frechet Inception Distance also. Did not browse on it.
-
-
+----------
+Transfer learning
 ----------
 While reading Future Frame Prediction for Anomaly Detection - A New baseline
 
