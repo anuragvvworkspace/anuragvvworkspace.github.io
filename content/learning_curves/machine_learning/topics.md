@@ -13,3 +13,4 @@ While reading Future Frame Prediction for Anomaly Detection - A New baseline
 - encoder-decoder
 - Gradient vanishing problem(didi not read in detail)
 - U-Net
+- FlowNet for optical flow estimation
