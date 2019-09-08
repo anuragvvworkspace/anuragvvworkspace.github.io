@@ -14,3 +14,8 @@ While reading Future Frame Prediction for Anomaly Detection - A New baseline
 - Gradient vanishing problem(didi not read in detail)
 - U-Net
 - FlowNet for optical flow estimation
+- Adversial training
+- GAN, Least square GAN, discriminative network(D), generator Network(G)
+
+
+
