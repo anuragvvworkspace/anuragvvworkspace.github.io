@@ -10,6 +10,6 @@ There is something called Frechet Inception Distance also. Did not browse on it.
 ----------
 While reading Future Frame Prediction for Anomaly Detection - A New baseline
 
-encoder-decoder
-Gradient vanishing problem(didi not read in detail)
-U-Net
+- encoder-decoder
+- Gradient vanishing problem(didi not read in detail)
+- U-Net
