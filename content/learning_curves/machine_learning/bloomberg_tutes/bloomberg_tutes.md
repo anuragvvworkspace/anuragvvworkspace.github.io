@@ -19,3 +19,18 @@ X -> prediction function -> y
 
 
 X -> feture extraction -> |R^d
+
+labeled/unlabeled data
+
+Loss functions
+	0/1 loss
+	square loss
+
+testing and training set.
+
+Nonstationarity
+	Covarience shift
+	Concept drift
+
+50:28 k-fold cross-validation	
+	Compute standard error of k folds of data into train and test sets.
