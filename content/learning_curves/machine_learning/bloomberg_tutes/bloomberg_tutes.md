@@ -56,4 +56,79 @@ Hyperparameters control various things
 	. type of mode complexity (eg. l1 or l2 regularization)
 	. optimization algorithm(eg. learning rate)
 	. model type (eg. loss fn, kernal type ect)
+ 
 
+# 2. CASE STUDY: CHURN PREDICTION
+---
+
+# 3. INTRODUCTION TO STATISTICAL LEARNING THEORY
+Stastical Learning Theory
+
+Typpical sequence of Events
+a) Observe input x
+b) Take action a
+c) observe outcone y
+
+Evaluate action vs outcome l(a,y)
+
+Typically wanna assume outcome independent of action. By not always the case ( like in autonomous cars)
+
+
+
+What would the spaces be for linear regression lie in?
+
+Input space x : past data or latest data R^d
+
+Action a : prediction of next value
+
+Outcome : future value
+
+
+
+
+What would the spaces be for logistic regression?
+
+Input space x : past data or latest data R^d
+
+Action a :  or 1 or probability of 1.
+
+Outcome : 0 or 1
+
+
+
+
+What would the spaces be for SVM?
+
+Input space x : past data or latest data R^d
+
+Action a : prediction of next value
+
+Outcome : future value
+
+
+
+
+12:31 Definition of 
+
+                 Decision function or prediction function: gets input X and produces action A
+	             
+	             Loss function : 
+	             
+	             Risk: expected loss R on a new example (x,y)
+	             
+	             Bayes decision fulction: f* = arg f min R(f)    ==== min R(l(f(x),y)) where R is expected loss, f(x) prediction function l() is loss function, y is output.
+
+IMPORTANT        20:22 Homework: f* = E(y/x)  find out why. #mathconcept #probablility: expected value in 
+
+19:51 Least square regression
+		Risk = 
+
+We cant compute risk!! coz we never know P(y|x) (probablility of the real world)
+
+Emprical Risk functional
+
+For multiclass classification:
+stopped at 29.30
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
