@@ -118,14 +118,37 @@ Outcome : future value
 	             
 	             Bayes decision fulction: f* = arg f min R(f)    ==== min R(l(f(x),y)) where R is expected loss, f(x) prediction function l() is loss function, y is output.
 
-IMPORTANT        20:22 Homework: f* = E(y/x)  find out why. #mathconcept #probablility: expected value in 
+Lets try derive bayes decision function for a few losses 
+19:51 :.
 
-19:51 Least square regression
-		Risk = 
+      Least square regression
+        loss = (f(x) - y)^2  where a : action , y outcome
+        imlies Risk = E[l(f(x))]
+        .
+        . solve this and turns out that
+        .
+        (bayes decision function )f* = E[y|x]
+        IMPORTANT        20:22 Homework: f* = E(y/x)  find out why. #mathconcept #probablility: expected value in 
+
+      Multi class classification
+        loss = 1 if a != y
+        Risk = 0*P(a=y) + 1(P(a!=y)
+        What will be the right bayes decision function?
+        f* = arg max P(y = k|x) meaning a = k,class with the highest probability
+        (if u dont undertand how this came about, go to 22:37)
+        Note : decision function is a function over an input x
+        
+        
+        
+27:10 We donno P(y|x) coz who knows real world right? So what to do?
+
+        
+        
+
 
 We cant compute risk!! coz we never know P(y|x) (probablility of the real world)
 
-discontinued. Jump to emperical ris function
+discontinued. Jump to emperical risk function
 
 at 29:00
 Emprical Risk functional
