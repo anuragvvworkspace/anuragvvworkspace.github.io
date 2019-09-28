@@ -158,6 +158,7 @@ one approach : Constrained ERM
                . minimize emperical risk to a subset called hypothesis space
 
 
+check notes for contional expectations
 
 # 4. STOCHASTIC GRADIENT DESCENT
 ------------------------------
