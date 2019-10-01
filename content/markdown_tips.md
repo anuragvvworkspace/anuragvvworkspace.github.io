@@ -1,4 +1,4 @@
-#List
+# List
 ## Unordered
 * this
 * that
@@ -6,7 +6,7 @@
     * there
 
 
-##Ordered
+## Ordered
 
 1. item1
 1. item2
