@@ -41,4 +41,19 @@ Nonstationarity
   Model complexity
   Over fitting
   
-## Lecture 2
+## Lecture 3(coz lecture 2 is case study)
+#### Statistical Learning Theory
+
+Formalization of the Learning Problem
+Three spaces Input space X, Action space A, Outcome space y
+what are the spaces for logistic regression, linear regression, SVM?
+
+How to evaluate prediction function?
+Risk = Expected loss;
+But we do not know P(x,y) the probability in real life. We work around this by estimating P
+Baye's Decision Function that minimizes risk.
+Finding baye's function for least square regression.
+    * Do homework 
+        ** Derive bayes function for least square regression | Understand it thoroughly.
+        ** find bayes for other functions
+        
