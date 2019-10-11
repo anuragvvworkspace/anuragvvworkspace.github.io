@@ -53,7 +53,7 @@ Risk = Expected loss;
 But we do not know P(x,y) the probability in real life. We work around this by estimating P  
 Baye's Decision Function that minimizes risk.  
 Finding baye's function for least square regression.  
-1 Do homework  
-2 Derive bayes function for least square regression | Understand it thoroughly.  
-2 find bayes for other functions  
+1. Do homework  
+2. Derive bayes function for least square regression | Understand it thoroughly.  
+2. find bayes for other functions  
         
