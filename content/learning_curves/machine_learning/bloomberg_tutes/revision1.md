@@ -62,7 +62,8 @@ Finding baye's function for least square regression.
 ###### Emperical Risk
 Since we do not know the probability of real entities, we can estimate and take a sample from the estimated model.
 Risk derived from such sample is called emperical risk. 
-* Emperical Risk R_hat = average of loss over sample.
+Since from STRONG LAW OF LARGE NUMBERS, Expeccted value = average of values in sample set, we have that 
+* Emperical Risk R_hat = average of loss over all samples.
 
 
 
