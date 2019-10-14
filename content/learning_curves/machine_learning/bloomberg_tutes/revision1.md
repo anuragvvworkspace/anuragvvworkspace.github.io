@@ -60,3 +60,9 @@ Finding baye's function for least square regression.
     * For multi class, bayes prediction is the class with the highest probability
     
 ###### Emperical Risk
+Since we do not know the probability of real entities, we can estimate and take a sample from the estimated model.
+Risk derived from such sample is called emperical risk. 
+* Emperical Risk R_hat = average of loss over sample.
+
+
+
