@@ -65,5 +65,16 @@ Risk derived from such sample is called emperical risk.
 Since from STRONG LAW OF LARGE NUMBERS, Expeccted value = average of values in sample set, we have that 
 * Emperical Risk R_hat = average of loss over all samples.
 
+## Lecture 4 Stocastic Gradient Descent
+#### Revision of Statistical learning Theory on an example linear least squares regression
+So basically we have to minimize the emperical risk function. Next is the most popular minimization method called gradient descent.  
+#### Gradient Descent
+Lipchitz continuity. (basically gradient step must be less than slope(proportionally) ).   
+So convergence is garenteed if step size is less than 1/L (L is proportional to slope)  
+* Batch gradiend descent(full size of dataset M)
+* Minibatch gradient descent(m < M)
+* stochastic gradient descent(m = 1)
+
+#### Skipped last three slides. Please conver it for sake of completelness
 
 
