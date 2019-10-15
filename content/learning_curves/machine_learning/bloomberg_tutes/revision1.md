@@ -75,6 +75,14 @@ So convergence is garenteed if step size is less than 1/L (L is proportional to 
 * Minibatch gradient descent(m < M)
 * stochastic gradient descent(m = 1)
 
-#### Skipped last three slides. Please conver it for sake of completelness
+#### Skipped last three slides. Please conver it for sake of completelness  
+
+## Lecture 5 Excess Risk
+Excess risk = Emperical risk - Bayes risk
+Approximation error  = Hypothesis Risk - Bayes risk
+Estimation error = Emperical risk - hypothesis risk
+similarly optimization risk.
 
 
+## Lecture 6 L1 and L2 Regularization
+Skipped this lecture. Have to come back to it.
