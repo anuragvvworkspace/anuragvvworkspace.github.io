@@ -24,3 +24,8 @@ L1 gives sparse solutions ( where some of the features have zero as coefficient 
 Effeciantly constraint and penalization are the same in deriving the optimization result  
 16:29: Ridge regressuib thikonov form  
 34:20:  Why lasso regression gives sparce solution?(i donno what the hell he is talking about at this point  
+
+no more pay attention further
+
+Lasso as quadratic program
+Coordinate descent method for 
