@@ -1,0 +1,16 @@
+Abstract:  
+This paper presents an overview of 3D object detection methods and prevalently used sensors and datasets in AVs. It then discusses and categorizes the recent  
+works based on sensors modalities into monocular, point cloud-based, and fusion methods.  
+
+WE divide3d object detection methods in three catagories.  
+Monocular image, point cloud and fusion based methods:  
+
+####  Monocular Image Based Methods:  
+Mono3D:
+  : Built on 3DOP(previous work of the author which uses depth images)   
+Pham and Jeon [44] extends the 3DOP which is better performing than 3DOP or Mono3D   
+  : re-ranks the proposals using both monocular images and depth  
+3D Voxel Pattern (3DVP) [41] representation
+  : accounts for occlusion
+  : dependant on performance of Region Proposal Networks(RPNs)
+  
