@@ -10,7 +10,10 @@ Mono3D:
   : Built on 3DOP(previous work of the author which uses depth images)   
 Pham and Jeon [44] extends the 3DOP which is better performing than 3DOP or Mono3D   
   : re-ranks the proposals using both monocular images and depth  
-3D Voxel Pattern (3DVP) [41] representation
-  : accounts for occlusion
-  : dependant on performance of Region Proposal Networks(RPNs)
+3D Voxel Pattern (3DVP) [41] representation  
+  : accounts for occlusion  
+  : dependant on performance of Region Proposal Networks(RPNs)  
+Extending 3DVP framework, same author proposes SubCNN  
+  : Candidates are extracted using convolutional layers to predict heat maps for each subcategory at the RPN level.  
+Deep MANTA [42] uses a many-task network to estimate vehicle position, part localization and shape based only on monocular images.  
   
