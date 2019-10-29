@@ -1,3 +1,6 @@
+http://sci-hub.tw/https://ieeexplore.ieee.org/document/8621614
+A Survey on 3D Object Detection Methods for Autonomous Driving Applications
+
 Abstract:  
 This paper presents an overview of 3D object detection methods and prevalently used sensors and datasets in AVs. It then discusses and categorizes the recent  
 works based on sensors modalities into monocular, point cloud-based, and fusion methods.  
