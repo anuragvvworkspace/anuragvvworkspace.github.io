@@ -37,8 +37,37 @@ region of interest (ROI). However, the fusion process is typically slow (as it i
 > [12]  Joint 3d proposal generation and object detection from view aggregation. In IROS, 2018 
 
 **This paper**  
-* develops a multi-sensor detector that reasons about 2D and 3D object detection, ground estimation and depth completion.  
-* Importantly, our model can be learned end-to-end and performs all these tasks at once.  
-* Leverages the advantages from both point-wise and ROIwise feature fusion  
-. estimates an accurate voxel-wise ground location 
+. develops a multi-sensor detector that reasons about 2D and 3D object detection, ground estimation and depth completion.  
+. Importantly, our model can be learned end-to-end and performs all these tasks at once.  
+. Leverages the advantages from both point-wise and ROIwise feature fusion  
+. estimates an accurate voxel-wise ground location  
+.  exploit the task of depth completion to learn better cross-modality feature representation and more importantly,
+to achieve dense point-wise feature fusion with pseudo LiDAR points from dense depth.  
+
+Related work
+------------
+**3D detection from single modality:**
+Not much
+
+**Multi-sensor fusion for 3D detection:**
+F-PointNet[17] : uses cascades, 2D detection -> 3d Frustrums -> into PointNet to regress 3D bounding box.
+MV3D[5] 3D proposals from LiDAR + refinement using ROI features + Image features 
+AVOD[12]
+ContFuse [13] uses continuous convolution[30]
+
+**3D detection from multi-task learning:**  
+. HDNET [33] exploits geometric ground shape and semantic road mask for BEV vehicle detection.  
+. SBNet [21] utilizes the sparsity in road mask to speed up 3D detection by > 2 times.  
+. wang et al[29]  
+. 3DOP  
+. Mono3D  
+
+Multi-Task Multi-Sensor Detector
+------
+. First : multi-sensor combines point-wise and ROI
+. Second : estimates ground 
+. depth completion 
+. end-to-end learning : multi-task loss
+
+
 
