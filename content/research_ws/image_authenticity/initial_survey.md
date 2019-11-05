@@ -13,17 +13,35 @@ https://sci-hub.tw/https://www.researchgate.net/publication/258394548_An_Overvie
 
 Research in multimedia content security has proposed several approaches that can be frst of all classifed into  
 **Active and Passive methods :**  
-Active : Fragile digital watermarking, cryptographic digital signatures.  
+Active means some form of information compiled by the trusted camera is used to check the authenticity.  
+Active : Fragile digital watermarking, cryptographic digital signatures.   
 
-**watermarkds :**  
+Passive means, only the digital content at disposal is present.  
+
+
+**watermarkde :**  
 Cameras need to have the watermarking signature. Manufactureres need to follow a protocol, which is very difficult in large scale.
 
-Acquasition footproint  
+Actuasition footproint  
 Coding footprint  
 Editing footprint
 
 
+Digital Image Life Cycle
+------------------------
+Acquisition, Coding, and Editing  
 
+**Acquisition**  
+fltered by the CFA (Color Filter Array) before reaching sensor  
+Acquasition: Light sensed by CMOS/CCD  to filter different colours.  
+demosaicing process to combine all colours.  
+In-camera processing like white balancing, color processing, image sharpening, contrast enhancement and gamma correction.  
+
+**Coding**
+lossy compressed in most cameras and JPEG in commercial devices.
+
+**Postprocessing**
+Any image editing that includes geometric transformation, sharpeining, contrast adjustment, image splicing ect.
 
 
 
