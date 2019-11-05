@@ -44,5 +44,16 @@ lossy compressed in most cameras and JPEG in commercial devices.
 Any image editing that includes geometric transformation, sharpeining, contrast adjustment, image splicing ect.
 
 
+Image acquasition
+-----------------
+Lens, sensor and colour filter array.  
 
+**Lens characteristics**  
+. Lateral Chromatic abbaration  
+
+. Sensor based footprints  
+
+Dominating component of sensor pattern noise is the photoresponse nonuniformity(**PRNU**)  
+PRNU is a high frequency multiplicative noise, generally stable throughout the camera’s lifetime in normal operating  
+conditions, that is, unique to each camera.
 
