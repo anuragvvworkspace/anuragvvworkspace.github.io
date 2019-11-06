@@ -54,10 +54,19 @@ light wavelengths to focus on shifted points in the image
 plane represented by the sensor, when the source light is off  
 the optical axis, resulting in a misalignment between color  
 channels.  
+[16] Lateral chromatic abberation.  
+[17] Mobile phone identification by feeding abberation parameters to SVM.  
+[18] intrinsicl radial distrotion of lens instead of camera source identification.  
+[19] Dust patterns are modeled in order to identify single device from an image.  
+[20] Purple Fringing Abberation(PFA) more complex but more visible as purple halos around an object. Used for tampering detection.
 
 **Sensor based footprints**  
 
 Dominating component of sensor pattern noise is the photoresponse nonuniformity(**PRNU**)  
 PRNU is a high frequency multiplicative noise, generally stable throughout the camera’s lifetime in normal operating  
-conditions, that is, unique to each camera.
+conditions, that is, unique to each camera.  
+
+**CFA Pattern**  
+
+
 
