@@ -49,7 +49,11 @@ Image acquasition
 Lens, sensor and colour filter array.  
 
 **Lens characteristics**  
-. Lateral Chromatic abbaration  
+. Lateral Chromatic abbaration:  This lens aberration causes different  
+light wavelengths to focus on shifted points in the image  
+plane represented by the sensor, when the source light is off  
+the optical axis, resulting in a misalignment between color  
+channels.  
 
 **Sensor based footprints**  
 
