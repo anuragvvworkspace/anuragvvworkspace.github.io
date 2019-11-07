@@ -49,7 +49,11 @@ Any image editing that includes geometric transformation, sharpeining, contrast 
 
 Two main aims of image forensics:  
 1. Source Identification  
+* 1. - obtain Image ballastics and classify it to specific model or device
 2. Tampering detection  
+* 1. - inconsistancy or absence of acquasition or coding fingureprints reveals presence of post processing
+* or 
+* 2. - detecting presence of editing fingureprints representing a given post processing
 
 Image acquasition
 -----------------
