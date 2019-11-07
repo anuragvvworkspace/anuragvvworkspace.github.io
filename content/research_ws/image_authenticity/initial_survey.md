@@ -93,3 +93,8 @@ https://sci-hub.tw/https://www.tandfonline.com/doi/abs/10.1080/00450618.2018.142
 Conclusion
 ----------
 1. 
+
+Digital image forgery detection using passive techniques: A survey
+==================================================================
+http://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S1742287613000364
+
