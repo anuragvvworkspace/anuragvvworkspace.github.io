@@ -44,6 +44,13 @@ lossy compressed in most cameras and JPEG in commercial devices.
 Any image editing that includes geometric transformation, sharpeining, contrast adjustment, image splicing ect.
 
 
+**Def :  Image Ballastic ** - Signature of a camera type or even the individual camera that is left on an image by the individual stages of image acquasition.   
+
+
+Two main aims of image forensics:  
+1. Source Identification  
+2. Tampering detection  
+
 Image acquasition
 -----------------
 Lens, sensor and colour filter array.  
@@ -69,4 +76,6 @@ conditions, that is, unique to each camera.
 **CFA Pattern**  
 
 
-
+Conclusion
+----------
+1. 
