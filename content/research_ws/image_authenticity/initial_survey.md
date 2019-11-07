@@ -47,7 +47,7 @@ Any image editing that includes geometric transformation, sharpeining, contrast 
 **Def :  Image Ballastic ** - Signature of a camera type or even the individual camera that is left on an image by the individual stages of image acquasition.   
 
 
-Two main aims of image forensics:  
+**Two main aims of image forensics:**  
 1. Source Identification  
 * 1. - obtain Image ballastics and classify it to specific model or device
 2. Tampering detection  
@@ -65,7 +65,10 @@ light wavelengths to focus on shifted points in the image
 plane represented by the sensor, when the source light is off  
 the optical axis, resulting in a misalignment between color  
 channels.  
-[16] Lateral chromatic abberation.  
+[16] Lateral chromatic abberation. Each colour has a different focus point.  
+Three parameters required to define the distortion per colour. image registration of sorts for detection shift.  
+Unique to each lens.  
+Johnson and Farid detect forgaries by looking for deviations in the above pattern.
 [17] Mobile phone identification by feeding abberation parameters to SVM.  
 [18] intrinsicl radial distrotion of lens instead of camera source identification.  
 [19] Dust patterns are modeled in order to identify single device from an image.  
@@ -78,7 +81,14 @@ PRNU is a high frequency multiplicative noise, generally stable throughout the c
 conditions, that is, unique to each camera.  
 
 **CFA Pattern**  
+Demosaicing is the trace caused due to colour filters.  
+two main classes:  
+. algorithms aiming at estimating the parameters of the color interpolation algorithm and
+the structure of the pattern filter  
+. algorithms aiming at evaluating the presence/absence of demosaicing traces.  
+First intended to classify sources and second focuses on forgery  
 
+https://sci-hub.tw/https://www.tandfonline.com/doi/abs/10.1080/00450618.2018.1424241
 
 Conclusion
 ----------
