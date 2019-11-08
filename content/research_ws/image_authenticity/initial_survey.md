@@ -88,7 +88,6 @@ the structure of the pattern filter
 . algorithms aiming at evaluating the presence/absence of demosaicing traces.  
 First intended to classify sources and second focuses on forgery  
 
-https://sci-hub.tw/https://www.tandfonline.com/doi/abs/10.1080/00450618.2018.1424241
 
 Conclusion
 ----------
@@ -98,3 +97,31 @@ Digital image forgery detection using passive techniques: A survey
 ==================================================================
 http://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S1742287613000364
 
+
+Digital image forgery detection: a systematic scrutiny 
+======================================================
+https://sci-hub.tw/https://www.tandfonline.com/doi/abs/10.1080/00450618.2018.1424241
+
+**Taxonomy of digital image forgeries**  
+important ones are copy-move forgery and image splicing  
+
+**Classification of digital image forgery detection methods**  
+. Source camera Identification  
+. Discrimination  
+. Digital Image Forgery Detection  
+. . Active Methods  
+. . . Watermarks  
+. . Passive Methods  
+. . . Forgery type dependent  
+. . . . Copy-move forgery detection methods
+. . . . 1. Dividing image into segments
+. . . . 2. Feature extraction
+. . . . 3. Feature matching
+. . . . . . Block based
+. . . . . . Keypoint based 
+https://www.youtube.com/watch?v=qtkUnkY1zE4
+
+. . . . Splicing based methods
+. . . . Fusion-based methods
+
+. . . Forgery type independent
