@@ -113,15 +113,16 @@ important ones are copy-move forgery and image splicing
 . . . Watermarks  
 . . Passive Methods  
 . . . Forgery type dependent  
-. . . . Copy-move forgery detection methods
-. . . . 1. Dividing image into segments
-. . . . 2. Feature extraction
-. . . . 3. Feature matching
-. . . . . . Block based
-. . . . . . Keypoint based 
-https://www.youtube.com/watch?v=qtkUnkY1zE4
+. . . . Copy-move forgery detection methods  
+. . . . 1. Dividing image into segments  
+. . . . 2. Feature extraction  
+. . . . 3. Feature matching  
+. . . . . . Block based  
+. . . . . . Keypoint based   
+https://www.youtube.com/watch?v=qtkUnkY1zE4  
 
-. . . . Splicing based methods
-. . . . Fusion-based methods
+. . . . Splicing based methods  
+. . . . Fusion-based methods  
 
-. . . Forgery type independent
+. . . Forgery type independent  
+. . . . Inconsistency-based:
