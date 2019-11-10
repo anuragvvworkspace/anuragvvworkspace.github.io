@@ -41,7 +41,9 @@ Content in the first column | Content in the second column
 
 
 
-
+---
+Below could be deleted
+---
 # Directory Structure
 
 Aerobatic defaults to some specific common front-end conventions. By conforming to these conventions you can simplify your configuration (convention over configuration).
