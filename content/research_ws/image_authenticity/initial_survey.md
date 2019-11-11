@@ -126,3 +126,17 @@ https://www.youtube.com/watch?v=qtkUnkY1zE4
 
 . . . Forgery type independent  
 . . . . Inconsistency-based:
+
+
+**Looking for copy-move forgery code**
+======
+
+**A Survey on Passive Image Copy-Move Forgery Detection**
+https://pdfs.semanticscholar.org/7343/74e1d58ee5a6583b96e0e234688315426147.pdf?_ga=2.191226604.75220405.1573459168-1408707466.1573459168
+
+2 Frameworks for CMFD(Copy Move Forgery Detection)  
+* Block and Keypoint based Methods.  
+* Machine Learning based methods.  
+
+
+
