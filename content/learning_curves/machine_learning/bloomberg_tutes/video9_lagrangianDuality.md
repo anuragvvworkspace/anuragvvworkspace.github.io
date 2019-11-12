@@ -55,8 +55,9 @@ d^* = sup(inf(L(x)))
 
 
 Weak max-min inequality
+p^* >= d^*
 
-
+The dual function is always concave.(I donno why. I stopped following him by this point. )
 
 
 
