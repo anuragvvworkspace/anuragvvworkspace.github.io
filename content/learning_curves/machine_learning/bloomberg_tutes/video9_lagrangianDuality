@@ -1,0 +1,12 @@
+In this lecture, we will explore lagrangian duality and proove the equivalence (mentioned in previous classes) between
+the penalized and the constraint form of optimization, the tikenof and the ivenof, two forms of regularization.
+Also, it gives us an insight into what happens with SVM optimization.
+
+Also lagrangian duality will give a lead into next topic which is kernalization.
+
+
+History of optimization:
+. . Early on, it was about linear, non-linear
+. By early 2000s
+. . it became about convex, non-convex problems.
+. . Then stocastic gradient descent magic happened (i lost track)
