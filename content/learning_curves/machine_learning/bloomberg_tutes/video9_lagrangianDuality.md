@@ -58,7 +58,9 @@ Weak max-min inequality
 p^* >= d^*
 
 The dual function is always concave.(I donno why. I stopped following him by this point. )
+Dual problem is often simpler to solve.
 
-
+**Complementary Slackness**
+Dint understand a thing. Revision needed.
 
 
