@@ -27,15 +27,10 @@ What would the spaces be for SVM?
 * Outcome : future value
 
 
-12:31 Definition of 
-
-                 Decision function or prediction function: gets input X and produces action A
-	             
-	             Loss function : 
-	             
-	             Risk: expected loss R on a new example (x,y)
-	             
-	             Bayes decision fulction: f* = arg f min R(f)    ==== min R(l(f(x),y)) where R is expected loss, f(x) prediction function l() is loss function, y is output.
+12:31 Definition of
+* Risk: expected loss R on a new example (x,y)
+         R(f) = El(f(x),y).
+* Bayes decision fulction: f* = arg f min R(f)    ==== min R(l(f(x),y)) where R is expected loss, f(x) prediction function l() is loss function, y is output.
 
 Lets try derive bayes decision function for a few losses 
 19:51 :.
