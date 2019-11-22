@@ -10,27 +10,26 @@ supervised learning algorithm
   
   
 
-Types of classification
-* Binary classification
-* multi-class classification
-* probabilistic classification or soft classification
-* regression
+Types of classification  
+* Binary classification  
+* multi-class classification  
+* probabilistic classification or soft classification  
+* regression  
 
-How to Convert Categorical Data to Numerical Data?
-This involves two steps:
+How to Convert Categorical Data to Numerical Data?  
+This involves two steps:  
 
-Integer Encoding
-One-Hot Encoding( read on this (here)[https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/])
+Integer Encoding  
+One-Hot Encoding( read on this (here)[https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/])  
 
-Evaluation of prediction function
-Loss function
+Evaluation of prediction function  
+Loss function  
 
+Splitting data into training and testing  
+Importance of test set. Should be used only in the last stage before deployment, even if you have multiple ML methods to   test.  
 
-Splitting data into training and testing
-Importance of test set. Should be used only in the last stage before deployment, even if you have multiple ML methods to test.
-
-k-Fold Cross validation
-Cros validation for time series
+k-Fold Cross validation  
+Cross validation for time series
 
 Caveats while learning
 Leakage
@@ -39,10 +38,9 @@ Nonstationarity
   * Concept drift
   
   Model complexity
-  Over fitting
-  
-## Lecture 3(coz lecture 2 is case study)
-#### Statistical Learning Theory
+  Over fitting  
+## Lecture 2 is case study. So omitted here. Was there any take aways from the lecture????? You will never know now!!!!  
+## Lecture 3 Statistical Learning Theory  
 
 Formalization of the Learning Problem  
 Three spaces Input space X, Action space A, Outcome space y  
