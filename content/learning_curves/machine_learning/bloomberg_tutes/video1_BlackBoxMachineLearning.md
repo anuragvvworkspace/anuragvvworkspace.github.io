@@ -10,6 +10,8 @@
   
 Data -- given to -- ML algorithm-- gives out -- Prediction function
 
+Most ML algos like fixed array of input ( |R^d for a mathematician)
+
 X -- given to -- prediction function -- gives out -- y
 
 X -> feture extraction -> |R^d
