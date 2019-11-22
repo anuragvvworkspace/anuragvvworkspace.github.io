@@ -47,9 +47,9 @@ In case of over fitting, you can
 
 There are ways of controlling complexity of model. (one of them is regularization talked later.)
 
-Hyperparameters control various things
-	. model complexity(eg. polynomial order)
-	. type of mode complexity (eg. l1 or l2 regularization)
-	. optimization algorithm(eg. learning rate)
-	. model type (eg. loss fn, kernal type ect)
+Hyperparameters control various things  
+	. model complexity(eg. polynomial order)  
+	. type of mode complexity (eg. l1 or l2 regularization)  
+	. optimization algorithm(eg. learning rate)  
+	. model type (eg. loss fn, kernal type ect)  
  
