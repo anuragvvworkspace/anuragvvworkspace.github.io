@@ -8,7 +8,7 @@
   
   
   
-Data -- given to -- ML -- gives out -- Prediction function
+Data -- given to -- ML algorithm-- gives out -- Prediction function
 
 X -- given to -- prediction function -- gives out -- y
 
