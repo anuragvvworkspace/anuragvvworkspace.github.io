@@ -1,4 +1,4 @@
-# Lecture 5
+# Lecture 5 EXCESS RISK DECOMPOSITION
 #### @5:23: 
 ---
 bayes decision function f* = argmin_f R(f)
