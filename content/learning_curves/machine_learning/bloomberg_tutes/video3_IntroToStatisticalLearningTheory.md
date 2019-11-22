@@ -11,33 +11,20 @@ Evaluate action vs outcome: loss function l(a,y)
 Typically wanna assume outcome independent of action. But not always the case ( like in autonomous cars steering)
 
 What would the spaces be for linear regression?  
-Input space x : past data or latest data R^d  
-Action a : prediction of next value  
-Outcome : future value  
+*Input space x : past data or latest data R^d  
+* Action a : prediction of next value  
+* Outcome : future value  
 
 
+What would the spaces be for logistic regression?  
+* Input space x : past data or latest data R^d
+* Action a :  or 1 or probability of 1.
+* Outcome : 0 or 1
 
-
-What would the spaces be for logistic regression?
-
-Input space x : past data or latest data R^d
-
-Action a :  or 1 or probability of 1.
-
-Outcome : 0 or 1
-
-
-
-
-What would the spaces be for SVM?
-
-Input space x : past data or latest data R^d
-
-Action a : prediction of next value
-
-Outcome : future value
-
-
+What would the spaces be for SVM?  
+* Input space x : past data or latest data R^d
+* Action a : prediction of next value
+* Outcome : future value
 
 
 12:31 Definition of 
