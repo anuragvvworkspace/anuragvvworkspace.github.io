@@ -39,7 +39,11 @@ Nonstationarity
   
   Model complexity
   Over fitting  
-## Lecture 2 is case study. So omitted here. Was there any take aways from the lecture????? You will never know now!!!!  
+## Lecture 2 is case study.
+This lecture discusses a case where a company tries to predict when a certain employee churns(as in leaves the company) 
+given data of all employees ever worked in the company and their churn dates.  
+* Not much to take away from the study.
+
 ## Lecture 3 Statistical Learning Theory  
 
 Formalization of the Learning Problem  
