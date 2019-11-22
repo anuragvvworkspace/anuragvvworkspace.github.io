@@ -29,11 +29,15 @@ What would the spaces be for SVM?
 
 12:31 Definition of
 * Risk: expected loss R on a new example (x,y)
-         R(f) = El(f(x),y).
+         R(f) = El(f(x),y).  
+* Expected value  =  Intuitively, a random variable's expected value represents the average of a large number of independent realizations of the random variable. For example, expected value of a rolling dice is 3.5
+* * E(f(x)) = sum( f(x) * P(x) )
+
+
 * Bayes decision fulction: f* = arg f min R(f)    ==== min R(l(f(x),y)) where R is expected loss, f(x) prediction function l() is loss function, y is output.
 
 Lets try derive bayes decision function for a few losses 
-19:51 :.
+19:51 :
 
       Least square regression
         loss = (f(x) - y)^2  where a : action , y outcome
