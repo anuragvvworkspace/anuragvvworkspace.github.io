@@ -2,10 +2,10 @@
 # INTRODUCTION TO STATISTICAL LEARNING THEORY
 
 
-Typpical sequence of Events  
-1. Observe input x  
-2. Take action a  
-3. observe outcome y  
+Typpical sequence of Events
+1. Observe input x
+2. Take action a
+3. observe outcome y
 
 Evaluate action vs outcome: loss function l(a,y)
 
