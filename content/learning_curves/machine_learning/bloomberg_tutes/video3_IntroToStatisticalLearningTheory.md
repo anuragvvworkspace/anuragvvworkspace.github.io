@@ -7,19 +7,13 @@ Typpical sequence of Events
 2. Take action a
 3. observe outcome y
 
-Evaluate action vs outcome: loss function l(a,y)
+Evaluate action vs outcome: loss function l(a,y)  
+Typically wanna assume outcome independent of action. But not always the case ( like in autonomous cars steering)
 
-Typically wanna assume outcome independent of action. But not always the case ( like in autonomous cars)
-
-
-
-What would the spaces be for linear regression?
-
-Input space x : past data or latest data R^d
-
-Action a : prediction of next value
-
-Outcome : future value
+What would the spaces be for linear regression?  
+Input space x : past data or latest data R^d  
+Action a : prediction of next value  
+Outcome : future value  
 
 
 
