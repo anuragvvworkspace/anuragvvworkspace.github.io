@@ -138,5 +138,16 @@ https://pdfs.semanticscholar.org/7343/74e1d58ee5a6583b96e0e234688315426147.pdf?_
 * Block and Keypoint based Methods.  
 * Machine Learning based methods.  
 
+**Comparative Study of Copy-Move Forgery Detection Techniques** 
+====
+Reading paper form link : https://sci-hub.tw/https://ieeexplore.ieee.org/document/8303041
+According to paper:
+Main steps of copy-move foregery detection algrithms:
+1. gray-scale conversion
+2. 
+
+
+
+
 
 
