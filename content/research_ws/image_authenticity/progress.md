@@ -24,13 +24,23 @@ forensics_methods.png
 
 
 . Matlab Forensics
+
 . . JPEG Quantization Estimation
+
 . . . Demo_estimate_quantization_step.m 
+
 . . . Demo_identify_decompressed_bitmap.m
+
 . . Image Forgery Localization via Fine-Grained Analysis of CFA 
+
 . . . demo_Piva.m
+
 . . Exposing digital forgeries from JPEG ghosts
+
 . . .demo_2.m
+
 . . Kurtosis - Exposing Region Splicing Forgeries with Blind Local Noise Estimation
+
 . . . demoGlobalNoiEst.m
+
 . . . demoLocalNoiEst.m
