@@ -10,37 +10,37 @@ forensics_methods.png
 
 
 ### Repositories that are working :
-. Copy-Move
+- Copy-Move
 
-. . copy-move/copy_move_matlab
+- - copy-move/copy_move_matlab
 
-. . . . Copy-move forgery detection and localization by means of robust clustering with J-Linkage
+- - - - Copy-move forgery detection and localization by means of robust clustering with J-Linkage
 
-. . . . Detection of Copy-Move Forgery in Digital Images
+- - - - Detection of Copy-Move Forgery in Digital Images
 
-. . copy-move/image-copy-move-detection/copy_move_detection_python_2
+- - copy-move/image-copy-move-detection/copy_move_detection_python_2
 
-. . . . main_CLI.py working
+- - - - main_CLI.py working
 
 
-. Matlab Forensics
+- Matlab Forensics
 
-. . JPEG Quantization Estimation
+- - JPEG Quantization Estimation
 
-. . . Demo_estimate_quantization_step.m 
+- - - Demo_estimate_quantization_step.m 
 
-. . . Demo_identify_decompressed_bitmap.m
+- - - Demo_identify_decompressed_bitmap.m
 
-. . Image Forgery Localization via Fine-Grained Analysis of CFA 
+- - Image Forgery Localization via Fine-Grained Analysis of CFA 
 
-. . . demo_Piva.m
+- - - demo_Piva.m
 
-. . Exposing digital forgeries from JPEG ghosts
+- - Exposing digital forgeries from JPEG ghosts
 
-. . .demo_2.m
+- - - demo_2.m
 
-. . Kurtosis - Exposing Region Splicing Forgeries with Blind Local Noise Estimation
+- - Kurtosis - Exposing Region Splicing Forgeries with Blind Local Noise Estimation
 
-. . . demoGlobalNoiEst.m
+- - - demoGlobalNoiEst.m
 
-. . . demoLocalNoiEst.m
+- - - demoLocalNoiEst.m
