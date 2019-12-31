@@ -44,3 +44,18 @@ forensics_methods.png
 - - - demoGlobalNoiEst.m
 
 - - - demoLocalNoiEst.m
+
+- Splicing
+- - matlab_codes
+- - - matlab_toolbox
+- - - - ADQ3 (for splicing but only on JPEG images)
+- - - - CAGI
+- - - - - demo.m
+- - - - CFA3
+- - - - DCT
+- - - - ELA
+- - - - GHO
+- - - - NOI1
+- - - - NOI2
+- - - - NOI4
+- - - - NOI5
