@@ -59,3 +59,12 @@ forensics_methods.png
 - - - - NOI2
 - - - - NOI4
 - - - - NOI5
+- - - Ones involving splicing
+- - - - CFA1
+- - - - CFA2
+- - - - CFA3
+- - - - NOI2
+- - - - NOI5
+- - - - BLK
+
+
