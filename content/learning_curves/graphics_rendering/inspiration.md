@@ -9,3 +9,7 @@ and
 art by Rens( https://www.youtube.com/watch?v=h5AR3Wf1QJg)  
 
 No further research (what the heck. Why dont u dive deeper?)
+
+Unreal engine is the shit!! Have u seen their apartment renderings? DAAAMNN!! Unreal engine is pretty open. Need a high end system to try iot out :\
+
+
