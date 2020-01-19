@@ -1,23 +1,33 @@
 https://business.mapsofindia.com/doing-business-in-india/types-of-business-entities-in-india.html
 
-## GK
-"Company" is a business entity that is separately taxable for income or accountable.
+## Jargon
+
+#### Proprietorship :
+AN individual can start a "proprietorship" which is an entity that exists in name only, but the taxes are borne by the individual.
+
+#### Partnership :
+A group of people can start a "partnership". You and I can have a 40-60 percent ownership in a joint entity called a partnership. We can earn money in that name, but whatever profits this entity makes is divided into parts.
+
+there is no limitation of liability in above two business entities.
+
+#### Company :
+"Company" is a business entity that is separately taxable for income or accountable. registered to give a separate legal existence to the business apart from its directors and shareholders..
 
 
-*Types of companies :*
+#### dividend
+profit distributed per shareholder/share
+
+#### Liability
+
+
+
+#### Types of companies :
 Sole proprietorship  
 one person company  
 private  
 public  
 partnership  
 LLP  
-
-#### Company :
-"Company" is a business entity that is separately taxable for income or accountable.
-
-
-#### Proprietorship
-AN individual can start a "proprietorship" which is an entity that exists in name only, but the taxes are borne by the individual.
 
 
 
@@ -78,4 +88,24 @@ One Person Company:
 . only one member is allowed in OPC.  
 . The major objective was to support entrepreneurs capable of starting a venture, all alone by themselves.  
 . This is also done by allowing them to create a single person economic entity.  
+
+
+From
+----
+
+https://www.entrepreneur.com/article/75118
+
+#### Soul proprietorship
+###### Features  
+1. Sole proprietorship means a single owner.
+2. The amount of profit is owned by the owner as well as the loss is also borne by him only.
+3. The liability of the owner of the sole proprietorship is limited.
+4. It doesn’t have any legal formalities as compared to Partnership or Company.
+5. The capital invested in the business is complete of the owner.
+6. Its advantages are ease of formation and less legal formalities.
+7. One of its major disadvantages is that the owner is liable for all the business debts.
+8. In the eyes of law, the proprietor and the business are same.
+
+
+
 
