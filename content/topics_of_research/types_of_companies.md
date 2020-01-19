@@ -12,11 +12,11 @@ public
 partnership  
 LLP  
 
-*Company :*
+#### Company :
 "Company" is a business entity that is separately taxable for income or accountable.
 
 
-*Proprietorship*
+#### Proprietorship
 AN individual can start a "proprietorship" which is an entity that exists in name only, but the taxes are borne by the individual.
 
 
