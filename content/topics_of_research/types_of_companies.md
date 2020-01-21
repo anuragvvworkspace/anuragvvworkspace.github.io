@@ -105,6 +105,9 @@ https://www.entrepreneur.com/article/75118
 6. Its advantages are ease of formation and less legal formalities.
 7. One of its major disadvantages is that the owner is liable for all the business debts.
 8. In the eyes of law, the proprietor and the business are same.
+9. Investors dont prefer investing into this business because it does not provide limited liability.
+10. 
+
 
 
 
