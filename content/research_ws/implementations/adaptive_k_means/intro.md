@@ -22,7 +22,7 @@ if recomputed distance between two clusters is less than a threshold, merge the 
 
 
 ### Image segmentation using adaptive k-mean
-
+https://link.springer.com/content/pdf/10.1186/s13640-018-0309-3.pdf
 Method
 ===
 1. Image preprocessing  
@@ -33,6 +33,26 @@ Method
 1. 2. 2. we found that different food images will inevitably cause uneven background due to differences in conditions such as light and the color of the food itself, which will seriously affect the segmentation results. Therefore, we take the L* component, the luminance component, in L*a*b* as a fixed value x
 1. 2. 3. RGB–XYZ–L*a*b*
 1. 3. #### Adaptive K-means 
+
+Steps to Implement:  
+===
+1. Image normalization  
+2. Conversion RGB -> XYZ -> L*a*b (formulas given in the paper
+3. Fix L* value to x.
+
+
+
+
+## Codes
+Opencv-adaptive k mean
+===
+https://github.com/TommyR22/OpenCv-Adaptive_Kmeans_Clustering
+In this code:  
+. Intensity is used as measure to group pixels.  
+. Threshold is used to create clusters.  
+. Threshold is used to murge close clusters.
+
+
 
 
 
