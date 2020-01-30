@@ -7,5 +7,12 @@ To help you better understand the PCBA process from start to finish, we've expla
 To start with the most basic unit which is PCB, its basic layers are:  
 . *Substrate* : base material of PCB.  
 . *Copper*    : Conducting material.  
-. Solder mask : Insulator.(one which makes them look green) .  
-. Silkscreen  : for labeling
+. *Solder mask* : Insulator.(one which makes them look green) .  
+. *Silkscreen*  : for labeling
+  
+  
+Two types of mounting technologies :   
+SMT  
+THT
+
+#### PCBA process steps : 
