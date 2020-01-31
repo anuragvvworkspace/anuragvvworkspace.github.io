@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=Psf1PUGNOus
 3d robotic solder dispenser and picka and place  
 https://www.youtube.com/watch?v=OUwQYAkBQWk  
 
+Manual solder pasting, pick and place and reflow heating
+https://www.youtube.com/watch?v=U48Nose31d4
 
 
   
