@@ -27,4 +27,13 @@ Step 3: Reflow Soldering
 . Reflow oven : 250*C or 480*F
 . 
 
+Solder paste printing equipment  
+https://www.youtube.com/watch?v=Psf1PUGNOus  
+
+
+3d robotic solder dispenser and picka and place  
+https://www.youtube.com/watch?v=OUwQYAkBQWk  
+
+
+
   
