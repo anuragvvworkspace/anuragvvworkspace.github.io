@@ -16,3 +16,14 @@ SMT
 THT
 
 #### PCBA process steps : 
+
+Step 1: Solder Paste Stenciling  
+. Apply solder paste using a stainless steel stencil.  
+  
+Step 2: Pick and Place  
+  
+Step 3: Reflow Soldering  
+. Reflow oven : 250*C or 480*F
+. 
+
+  
