@@ -19,6 +19,7 @@ THT
 
 Step 1: Solder Paste Stenciling  
 . Apply solder paste using a stainless steel stencil.  
+. Check out for solder paste printing machnes https://www.youtube.com/watch?v=poMtXElasM4
   
 Step 2: Pick and Place  
   
