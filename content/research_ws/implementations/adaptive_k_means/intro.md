@@ -32,7 +32,9 @@ Method
 1. 2. 1. the beauty of the L*a*b* color model is that it compensates for the inequality of the color distribution of the RGB color
 1. 2. 2. we found that different food images will inevitably cause uneven background due to differences in conditions such as light and the color of the food itself, which will seriously affect the segmentation results. Therefore, we take the L* component, the luminance component, in L*a*b* as a fixed value x
 1. 2. 3. RGB–XYZ–L*a*b*
-1. 3. #### Adaptive K-means 
+1. 3. #### Adaptive K-means  
+1. 3. 1. K-means from 2 to 10 k value
+1. 3. 2. Maximum connected domain algorithm to compare with K value
 
 Steps to Implement:  
 ===
