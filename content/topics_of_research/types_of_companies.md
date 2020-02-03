@@ -110,5 +110,11 @@ https://www.entrepreneur.com/article/75118
 
 
 
+From
+---
+https://www.startupindia.gov.in/content/sih/en/international/go-to-market-guide/types-of-businesses.html
+
+
+
 
 
