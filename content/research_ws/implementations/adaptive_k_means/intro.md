@@ -22,7 +22,7 @@ if recomputed distance between two clusters is less than a threshold, merge the 
 
 
 ### Image segmentation using adaptive k-mean
-https://link.springer.com/content/pdf/10.1186/s13640-018-0309-3.pdf
+https://link.springer.com/content/pdf/10.1186/s13640-018-0309-3.pdf  
 Method
 ===
 1. Image preprocessing  
