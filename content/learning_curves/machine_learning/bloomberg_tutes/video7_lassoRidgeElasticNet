@@ -1,8 +1,0 @@
-havent payed much attention to this lecture.  
-But essentially, the lecture explores sparse solution and sensitivity of output towards orientation of distribution of data
-
-Hence elasticNet is introduced. 
-Remember the diamond shaped diagram of L1 constraint, bulging out due to additional some additional constraints in the objective fn.  
-The bulge prevents eratic jumping of solution from one corner to aother corner(one sparse solution to other) due to small pertubations  
-in the covarience of data.(Is it data or something else???? nevermind)
-

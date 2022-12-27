@@ -1,43 +1,27 @@
-# Data is in 'content' folder. DO NOT DELETE this repository
-----
+# Ze Jiang
+This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
 
-# Scribble
+## A short introduction
+I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
 
-A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
-
-![screenshot](https://cloud.githubusercontent.com/assets/1153134/23830104/6d4665e0-06b7-11e7-8805-57e73c346459.png)
-
-## Get started
-
-1. [Fork the repository](https://github.com/muan/scribble/fork)
-
-2. Clone the repository: `git clone https://github.com/username/scribble`
-
-3. Run `bundle install`
-
-4. Run Jekyll: `bundle exec jekyll serve -w`
-
-5. Go to http://localhost:4000 for your site.
-
----
-
-## Make it yours
-
-1. Edit `_config.yml`, aNDdn then rerun `jekyll serve -w`
-
-2. Change `about.md` for blog intro
-
-3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
-
-## Mark 'em Down
-
-Use markdown cheatsheet to effectively use markdown.
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-## The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+PROFILE:
+* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
+* Strong interpersonal skills with a good sense of teamwork.
+* Programming Skills: R, C/C++, and Python in both Unix and Windows environments.
+* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
 
+## Selected Journal Publications
+Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
+
+Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
+
+Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
+
+Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
+
+Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
+
+## For more information
+More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
 
