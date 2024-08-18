@@ -9,6 +9,10 @@ navbar_entries:
     url: vvanurag.github.io
 
 project_entries:
+  - title: Reactionless Visual Servoing
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+    thumbnail: assets/images/Reactionless.gif
   - title: ORB-SLAM based object detection for quadrotor indoor navigation
     url: overview-post
     desc: 
@@ -23,10 +27,6 @@ project_entries:
     url: overview-post
     desc: Projects are shown in card layout
     thumbnail: assets/images/orbslam2line3dpp.gif
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
 
   - title: Project 4
     url: overview-post
